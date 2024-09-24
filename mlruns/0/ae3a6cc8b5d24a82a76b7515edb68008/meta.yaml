@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ae3a6cc8b5d24a82a76b7515edb68008/artifacts
+end_time: 1727209988772
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae3a6cc8b5d24a82a76b7515edb68008
+run_name: thundering-lynx-292
+run_uuid: ae3a6cc8b5d24a82a76b7515edb68008
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727209987626
+status: 4
+tags: []
+user_id: root
