@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/21740d633d4e4f0ea8d2d954b60072de/artifacts
+end_time: 1727563475151
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 21740d633d4e4f0ea8d2d954b60072de
+run_name: exultant-whale-158
+run_uuid: 21740d633d4e4f0ea8d2d954b60072de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727563471281
+status: 4
+tags: []
+user_id: root

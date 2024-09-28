@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8a16dacb30d54ff98417ee766b7bc8ab/artifacts
+end_time: 1727208588967
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a16dacb30d54ff98417ee766b7bc8ab
+run_name: marvelous-whale-799
+run_uuid: 8a16dacb30d54ff98417ee766b7bc8ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727208587071
+status: 3
+tags: []
+user_id: root

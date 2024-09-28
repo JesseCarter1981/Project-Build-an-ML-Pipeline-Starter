@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/aa424f20923d46d286b070d8e3f7b7fc/artifacts
+end_time: 1724522744950
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa424f20923d46d286b070d8e3f7b7fc
+run_name: unequaled-turtle-807
+run_uuid: aa424f20923d46d286b070d8e3f7b7fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724522742436
+status: 3
+tags: []
+user_id: root

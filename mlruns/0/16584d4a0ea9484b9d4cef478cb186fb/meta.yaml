@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/16584d4a0ea9484b9d4cef478cb186fb/artifacts
+end_time: 1727542473511
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16584d4a0ea9484b9d4cef478cb186fb
+run_name: mercurial-frog-112
+run_uuid: 16584d4a0ea9484b9d4cef478cb186fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727542450498
+status: 4
+tags: []
+user_id: root

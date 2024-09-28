@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/58b486dd1a994620854921720ac68abc/artifacts
+end_time: 1727542571208
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 58b486dd1a994620854921720ac68abc
+run_name: traveling-ant-247
+run_uuid: 58b486dd1a994620854921720ac68abc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727542558387
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8fb0ca7054134ccf8a243fc81d1a9144/artifacts
+end_time: 1727208558602
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8fb0ca7054134ccf8a243fc81d1a9144
+run_name: wistful-fawn-873
+run_uuid: 8fb0ca7054134ccf8a243fc81d1a9144
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727208555289
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d1e379d4c8014775a9f1af9186b59e32/artifacts
+end_time: 1727104292805
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1e379d4c8014775a9f1af9186b59e32
+run_name: dashing-snake-995
+run_uuid: d1e379d4c8014775a9f1af9186b59e32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727104289969
+status: 3
+tags: []
+user_id: root

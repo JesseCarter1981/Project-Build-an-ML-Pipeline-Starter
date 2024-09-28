@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/798d150a741c4f278c5602fe09dee3fd/artifacts
+end_time: 1726500802709
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 798d150a741c4f278c5602fe09dee3fd
+run_name: handsome-kit-30
+run_uuid: 798d150a741c4f278c5602fe09dee3fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726500799766
+status: 3
+tags: []
+user_id: root

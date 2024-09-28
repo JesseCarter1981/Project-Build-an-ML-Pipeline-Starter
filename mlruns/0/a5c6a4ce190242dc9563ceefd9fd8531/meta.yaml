@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a5c6a4ce190242dc9563ceefd9fd8531/artifacts
+end_time: 1727457912735
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5c6a4ce190242dc9563ceefd9fd8531
+run_name: mercurial-jay-24
+run_uuid: a5c6a4ce190242dc9563ceefd9fd8531
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727457909202
+status: 4
+tags: []
+user_id: root

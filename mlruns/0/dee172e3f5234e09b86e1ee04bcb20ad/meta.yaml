@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/dee172e3f5234e09b86e1ee04bcb20ad/artifacts
+end_time: 1727564407871
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dee172e3f5234e09b86e1ee04bcb20ad
+run_name: bedecked-shrew-872
+run_uuid: dee172e3f5234e09b86e1ee04bcb20ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727564402749
+status: 4
+tags: []
+user_id: root

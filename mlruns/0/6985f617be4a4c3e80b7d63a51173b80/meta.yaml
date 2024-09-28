@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6985f617be4a4c3e80b7d63a51173b80/artifacts
+end_time: 1727208836618
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6985f617be4a4c3e80b7d63a51173b80
+run_name: rogue-ray-241
+run_uuid: 6985f617be4a4c3e80b7d63a51173b80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727208789959
+status: 3
+tags: []
+user_id: root

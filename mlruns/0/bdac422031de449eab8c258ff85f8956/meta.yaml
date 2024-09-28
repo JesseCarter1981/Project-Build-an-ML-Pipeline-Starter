@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/bdac422031de449eab8c258ff85f8956/artifacts
+end_time: 1727208711979
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bdac422031de449eab8c258ff85f8956
+run_name: resilient-lamb-200
+run_uuid: bdac422031de449eab8c258ff85f8956
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727208710084
+status: 3
+tags: []
+user_id: root

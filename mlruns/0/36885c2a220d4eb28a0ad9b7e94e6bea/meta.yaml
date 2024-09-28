@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/36885c2a220d4eb28a0ad9b7e94e6bea/artifacts
+end_time: 1727543290518
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36885c2a220d4eb28a0ad9b7e94e6bea
+run_name: auspicious-lamb-910
+run_uuid: 36885c2a220d4eb28a0ad9b7e94e6bea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727543282683
+status: 4
+tags: []
+user_id: root

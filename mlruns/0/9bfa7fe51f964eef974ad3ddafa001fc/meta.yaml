@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9bfa7fe51f964eef974ad3ddafa001fc/artifacts
+end_time: 1727563474925
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9bfa7fe51f964eef974ad3ddafa001fc
+run_name: unleashed-foal-851
+run_uuid: 9bfa7fe51f964eef974ad3ddafa001fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727563473492
+status: 4
+tags: []
+user_id: root

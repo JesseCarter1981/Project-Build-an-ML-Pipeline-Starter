@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/51fc1610d3aa4ffd954fc83d6c25a475/artifacts
+end_time: 1727457976956
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51fc1610d3aa4ffd954fc83d6c25a475
+run_name: awesome-moth-404
+run_uuid: 51fc1610d3aa4ffd954fc83d6c25a475
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727457975437
+status: 4
+tags: []
+user_id: root

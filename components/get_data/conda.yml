@@ -9,3 +9,4 @@ dependencies:
   - pip:
       - wandb==0.13.9
       - git+https://github.com/udacity/Project-Build-an-ML-Pipeline-Starter.git#egg=wandb-utils&subdirectory=components
+      - databricks_cli==0.8.7

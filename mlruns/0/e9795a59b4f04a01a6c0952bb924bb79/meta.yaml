@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e9795a59b4f04a01a6c0952bb924bb79/artifacts
+end_time: 1724522388814
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e9795a59b4f04a01a6c0952bb924bb79
+run_name: intrigued-loon-424
+run_uuid: e9795a59b4f04a01a6c0952bb924bb79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724522386247
+status: 3
+tags: []
+user_id: root

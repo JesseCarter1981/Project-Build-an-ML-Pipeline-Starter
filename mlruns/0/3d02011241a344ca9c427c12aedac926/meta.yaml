@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3d02011241a344ca9c427c12aedac926/artifacts
+end_time: 1726583338557
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d02011241a344ca9c427c12aedac926
+run_name: funny-auk-493
+run_uuid: 3d02011241a344ca9c427c12aedac926
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726583335656
+status: 3
+tags: []
+user_id: root

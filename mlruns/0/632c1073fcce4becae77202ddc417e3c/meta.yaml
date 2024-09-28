@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/632c1073fcce4becae77202ddc417e3c/artifacts
+end_time: 1724525971441
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 632c1073fcce4becae77202ddc417e3c
+run_name: able-mare-682
+run_uuid: 632c1073fcce4becae77202ddc417e3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724525959222
+status: 3
+tags: []
+user_id: root

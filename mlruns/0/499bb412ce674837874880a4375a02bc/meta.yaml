@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/499bb412ce674837874880a4375a02bc/artifacts
+end_time: 1727543718653
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 499bb412ce674837874880a4375a02bc
+run_name: bald-snipe-124
+run_uuid: 499bb412ce674837874880a4375a02bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727543706664
+status: 4
+tags: []
+user_id: root

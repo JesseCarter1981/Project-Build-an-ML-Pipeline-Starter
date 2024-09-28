@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/77f96c82e19f4a47b4278fcaf81bd727/artifacts
+end_time: 1724524577257
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 77f96c82e19f4a47b4278fcaf81bd727
+run_name: gaudy-shoat-456
+run_uuid: 77f96c82e19f4a47b4278fcaf81bd727
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724524563507
+status: 3
+tags: []
+user_id: root

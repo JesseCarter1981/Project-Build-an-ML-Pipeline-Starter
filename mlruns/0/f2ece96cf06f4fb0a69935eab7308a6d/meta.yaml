@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f2ece96cf06f4fb0a69935eab7308a6d/artifacts
+end_time: 1727543175179
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f2ece96cf06f4fb0a69935eab7308a6d
+run_name: treasured-pig-60
+run_uuid: f2ece96cf06f4fb0a69935eab7308a6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727543167076
+status: 4
+tags: []
+user_id: root

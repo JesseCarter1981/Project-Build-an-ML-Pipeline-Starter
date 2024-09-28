@@ -8,4 +8,5 @@ dependencies:
   - hydra-core=1.0.6
   - pip=20.3.3
   - pip:
+      - databricks_cli==0.8.7
       - wandb==0.13.9

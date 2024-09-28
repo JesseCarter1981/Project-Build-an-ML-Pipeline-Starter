@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d8f1d61b565e436ebec68c354f13143f/artifacts
+end_time: 1727208672158
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8f1d61b565e436ebec68c354f13143f
+run_name: enthused-trout-663
+run_uuid: d8f1d61b565e436ebec68c354f13143f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727208669079
+status: 3
+tags: []
+user_id: root

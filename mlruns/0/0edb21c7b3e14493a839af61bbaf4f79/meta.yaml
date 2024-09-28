@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0edb21c7b3e14493a839af61bbaf4f79/artifacts
+end_time: 1724522673632
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0edb21c7b3e14493a839af61bbaf4f79
+run_name: traveling-koi-921
+run_uuid: 0edb21c7b3e14493a839af61bbaf4f79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724522671201
+status: 3
+tags: []
+user_id: root

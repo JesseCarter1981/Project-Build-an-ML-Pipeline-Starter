@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e6e5588a9d3048dd817d281838da90ef/artifacts
+end_time: 1727545245188
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e6e5588a9d3048dd817d281838da90ef
+run_name: unleashed-vole-936
+run_uuid: e6e5588a9d3048dd817d281838da90ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727545176248
+status: 3
+tags: []
+user_id: root

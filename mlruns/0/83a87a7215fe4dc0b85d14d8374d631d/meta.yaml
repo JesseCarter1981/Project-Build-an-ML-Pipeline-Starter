@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/83a87a7215fe4dc0b85d14d8374d631d/artifacts
+end_time: 1726585446527
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 83a87a7215fe4dc0b85d14d8374d631d
+run_name: useful-sheep-759
+run_uuid: 83a87a7215fe4dc0b85d14d8374d631d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726585443403
+status: 3
+tags: []
+user_id: root

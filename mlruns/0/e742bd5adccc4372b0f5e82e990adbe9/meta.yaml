@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e742bd5adccc4372b0f5e82e990adbe9/artifacts
+end_time: 1727543228539
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e742bd5adccc4372b0f5e82e990adbe9
+run_name: glamorous-conch-731
+run_uuid: e742bd5adccc4372b0f5e82e990adbe9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727543216996
+status: 3
+tags: []
+user_id: root

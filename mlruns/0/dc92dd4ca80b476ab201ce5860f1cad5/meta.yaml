@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/dc92dd4ca80b476ab201ce5860f1cad5/artifacts
+end_time: 1726500351343
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc92dd4ca80b476ab201ce5860f1cad5
+run_name: illustrious-bird-115
+run_uuid: dc92dd4ca80b476ab201ce5860f1cad5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726500349452
+status: 3
+tags: []
+user_id: root

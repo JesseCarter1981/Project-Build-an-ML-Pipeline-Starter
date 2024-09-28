@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/45378fde4763482986447d3c8738258a/artifacts
+end_time: 1727543718465
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45378fde4763482986447d3c8738258a
+run_name: vaunted-wolf-865
+run_uuid: 45378fde4763482986447d3c8738258a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727543709525
+status: 4
+tags: []
+user_id: root

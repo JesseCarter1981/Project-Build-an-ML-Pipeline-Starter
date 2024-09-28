@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e2de87725c23458faceea604592f87b2/artifacts
+end_time: 1727563757171
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2de87725c23458faceea604592f87b2
+run_name: likeable-chimp-933
+run_uuid: e2de87725c23458faceea604592f87b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727563753540
+status: 4
+tags: []
+user_id: root

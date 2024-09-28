@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d7e83d794508416fa042a3b8ecbbc5b3/artifacts
+end_time: 1727542473710
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d7e83d794508416fa042a3b8ecbbc5b3
+run_name: calm-colt-408
+run_uuid: d7e83d794508416fa042a3b8ecbbc5b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727542447563
+status: 4
+tags: []
+user_id: root

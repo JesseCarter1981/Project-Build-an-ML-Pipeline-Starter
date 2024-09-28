@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/96704d56fb9f492f89bcf71ead2ad5bf/artifacts
+end_time: 1724781432420
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 96704d56fb9f492f89bcf71ead2ad5bf
+run_name: receptive-ape-188
+run_uuid: 96704d56fb9f492f89bcf71ead2ad5bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724781429459
+status: 3
+tags: []
+user_id: root

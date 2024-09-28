@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/53d38cae29b748f9a9eb3b50f467d6a7/artifacts
+end_time: 1727545245331
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53d38cae29b748f9a9eb3b50f467d6a7
+run_name: vaunted-moth-304
+run_uuid: 53d38cae29b748f9a9eb3b50f467d6a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727545171893
+status: 3
+tags: []
+user_id: root

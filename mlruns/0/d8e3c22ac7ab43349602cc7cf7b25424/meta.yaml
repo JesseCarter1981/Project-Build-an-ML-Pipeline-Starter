@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d8e3c22ac7ab43349602cc7cf7b25424/artifacts
+end_time: 1727458193124
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8e3c22ac7ab43349602cc7cf7b25424
+run_name: powerful-shrike-976
+run_uuid: d8e3c22ac7ab43349602cc7cf7b25424
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727458191579
+status: 4
+tags: []
+user_id: root

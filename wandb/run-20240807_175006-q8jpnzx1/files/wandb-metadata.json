@@ -1,0 +1,130 @@
+{
+    "os": "Linux-5.15.153.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.9.15",
+    "heartbeatAt": "2024-08-07T22:50:08.019252",
+    "startedAt": "2024-08-07T22:50:06.782632",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "artifact",
+        "put",
+        "-n",
+        "testing/artifact_test",
+        "wandb_test"
+    ],
+    "state": "running",
+    "program": "/root/miniconda3/envs/nyc_airbnb_dev/bin/wandb",
+    "git": {
+        "remote": "https://github.com/JesseCarter1981/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "077621b0ed54d88e8c2f5ef3dea7b725c4ea7c98"
+    },
+    "email": null,
+    "root": "/root/Project-Build-an-ML-Pipeline-Starter",
+    "host": "DESKTOP-AULSLDG",
+    "username": "root",
+    "executable": "/root/miniconda3/envs/nyc_airbnb_dev/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 3792.913,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3792.913,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3792.913,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3792.913,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3792.913,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3792.913,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3792.913,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3792.913,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3792.913,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3792.913,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3792.913,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3792.913,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3792.913,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3792.913,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3792.913,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3792.913,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3792.913,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 1006.853931427002,
+        "used": 16.11502456665039
+    },
+    "gpu": "NVIDIA GeForce RTX 3070",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3070",
+            "memory_total": 8589934592
+        }
+    ],
+    "memory": {
+        "total": 15.57650375366211
+    }
+}

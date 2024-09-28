@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/305616168a274bf18dc8194897733253/artifacts
+end_time: 1727458440096
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 305616168a274bf18dc8194897733253
+run_name: invincible-gnu-426
+run_uuid: 305616168a274bf18dc8194897733253
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727458425756
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a6641350e8794d4490660d465f41125f/artifacts
+end_time: 1724520459998
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6641350e8794d4490660d465f41125f
+run_name: tasteful-whale-182
+run_uuid: a6641350e8794d4490660d465f41125f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724520446231
+status: 3
+tags: []
+user_id: root

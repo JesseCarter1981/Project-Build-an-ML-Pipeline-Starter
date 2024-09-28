@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/aae6753acdb540a3905dd4a4290ce664/artifacts
+end_time: 1726582958017
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aae6753acdb540a3905dd4a4290ce664
+run_name: sedate-shoat-293
+run_uuid: aae6753acdb540a3905dd4a4290ce664
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726582955125
+status: 3
+tags: []
+user_id: root

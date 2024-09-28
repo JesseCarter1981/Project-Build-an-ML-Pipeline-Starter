@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/49b499490b9a48fea888c819a4fbe46e/artifacts
+end_time: 1727208861040
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 49b499490b9a48fea888c819a4fbe46e
+run_name: judicious-owl-192
+run_uuid: 49b499490b9a48fea888c819a4fbe46e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727208859065
+status: 3
+tags: []
+user_id: root

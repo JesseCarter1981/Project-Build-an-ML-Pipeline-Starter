@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ee84f7c5e999404a9a8bffb220d16f7d/artifacts
+end_time: 1727208336586
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee84f7c5e999404a9a8bffb220d16f7d
+run_name: unleashed-duck-551
+run_uuid: ee84f7c5e999404a9a8bffb220d16f7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727208325976
+status: 3
+tags: []
+user_id: root

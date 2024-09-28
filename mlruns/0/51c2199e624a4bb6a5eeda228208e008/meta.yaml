@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/51c2199e624a4bb6a5eeda228208e008/artifacts
+end_time: 1727544024003
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51c2199e624a4bb6a5eeda228208e008
+run_name: delicate-cat-640
+run_uuid: 51c2199e624a4bb6a5eeda228208e008
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727544014885
+status: 3
+tags: []
+user_id: root

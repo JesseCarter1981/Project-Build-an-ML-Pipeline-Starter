@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4e1ecb3a52254438b671b898789648cf/artifacts
+end_time: 1724678708794
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e1ecb3a52254438b671b898789648cf
+run_name: skittish-bee-941
+run_uuid: 4e1ecb3a52254438b671b898789648cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724678706923
+status: 3
+tags: []
+user_id: root

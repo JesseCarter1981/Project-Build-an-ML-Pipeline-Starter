@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/bf49a1130a4444c29d13e2168071d85c/artifacts
+end_time: 1727457912546
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf49a1130a4444c29d13e2168071d85c
+run_name: lyrical-snake-554
+run_uuid: bf49a1130a4444c29d13e2168071d85c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727457911004
+status: 4
+tags: []
+user_id: root

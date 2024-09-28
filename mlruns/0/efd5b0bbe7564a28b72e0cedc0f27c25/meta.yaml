@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/efd5b0bbe7564a28b72e0cedc0f27c25/artifacts
+end_time: 1727563257899
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: efd5b0bbe7564a28b72e0cedc0f27c25
+run_name: gaudy-lark-270
+run_uuid: efd5b0bbe7564a28b72e0cedc0f27c25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727563188376
+status: 4
+tags: []
+user_id: root

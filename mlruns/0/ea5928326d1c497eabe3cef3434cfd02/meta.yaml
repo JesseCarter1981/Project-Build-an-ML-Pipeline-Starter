@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ea5928326d1c497eabe3cef3434cfd02/artifacts
+end_time: 1727459029319
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea5928326d1c497eabe3cef3434cfd02
+run_name: stylish-eel-213
+run_uuid: ea5928326d1c497eabe3cef3434cfd02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727459020214
+status: 3
+tags: []
+user_id: root

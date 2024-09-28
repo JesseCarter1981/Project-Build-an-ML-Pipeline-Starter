@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e0f998999042453890c95735c733ca0f/artifacts
+end_time: 1727543175366
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e0f998999042453890c95735c733ca0f
+run_name: awesome-gull-905
+run_uuid: e0f998999042453890c95735c733ca0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727543164145
+status: 4
+tags: []
+user_id: root
