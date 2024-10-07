@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4ace8b36b4d047958585b26e6cebb038/artifacts
+end_time: 1727629373859
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ace8b36b4d047958585b26e6cebb038
+run_name: legendary-sloth-485
+run_uuid: 4ace8b36b4d047958585b26e6cebb038
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727629361805
+status: 4
+tags: []
+user_id: root

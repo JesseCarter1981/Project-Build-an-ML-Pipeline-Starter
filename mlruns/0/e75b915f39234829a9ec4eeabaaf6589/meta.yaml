@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e75b915f39234829a9ec4eeabaaf6589/artifacts
+end_time: 1727601512502
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e75b915f39234829a9ec4eeabaaf6589
+run_name: loud-auk-628
+run_uuid: e75b915f39234829a9ec4eeabaaf6589
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727601256249
+status: 3
+tags: []
+user_id: root

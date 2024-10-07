@@ -1,0 +1,141 @@
+{
+    "os": "Linux-5.15.153.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.9.20",
+    "heartbeatAt": "2024-09-24T20:35:01.584209",
+    "startedAt": "2024-09-24T20:35:01.045607",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "sample.csv:latest",
+        "--output_artifact",
+        "clean_sample.csv",
+        "--output_type",
+        "clean_sample",
+        "--output_description",
+        "Data with outliers and null values removed",
+        "--min_price",
+        "10",
+        "--max_price",
+        "350"
+    ],
+    "state": "running",
+    "program": "/root/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/run.py",
+    "codePathLocal": "run.py",
+    "codePath": "src/basic_cleaning/run.py",
+    "git": {
+        "remote": "https://github.com/JesseCarter1981/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "06fd34006507db35753bdd5f9e54888a45f1b173"
+    },
+    "email": "jesse.carter1981@gmail.com",
+    "root": "/root/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter",
+    "host": "DESKTOP-AULSLDG",
+    "username": "root",
+    "executable": "/root/miniconda3/envs/mlflow-ee0df7d6b10f9b4dc721d88329eed07b18ca47b2/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 3792.9100000000017,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3792.91,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3792.91,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3792.91,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3792.91,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3792.91,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3792.91,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3792.91,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3792.91,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3792.91,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3792.91,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3792.91,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3792.91,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3792.91,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3792.91,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3792.91,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3792.91,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1006.853931427002,
+            "used": 23.39270782470703
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3070",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3070",
+            "memory_total": 8589934592
+        }
+    ],
+    "memory": {
+        "total": 15.57650375366211
+    }
+}

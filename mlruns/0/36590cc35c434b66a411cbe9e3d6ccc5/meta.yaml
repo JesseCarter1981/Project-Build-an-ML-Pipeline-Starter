@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/36590cc35c434b66a411cbe9e3d6ccc5/artifacts
+end_time: 1727628242643
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36590cc35c434b66a411cbe9e3d6ccc5
+run_name: suave-flea-491
+run_uuid: 36590cc35c434b66a411cbe9e3d6ccc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727628202725
+status: 4
+tags: []
+user_id: root

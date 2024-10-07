@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/10d654dc736c495492faa916a691f4fa/artifacts
+end_time: 1727629374077
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10d654dc736c495492faa916a691f4fa
+run_name: treasured-bug-224
+run_uuid: 10d654dc736c495492faa916a691f4fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727629357442
+status: 4
+tags: []
+user_id: root

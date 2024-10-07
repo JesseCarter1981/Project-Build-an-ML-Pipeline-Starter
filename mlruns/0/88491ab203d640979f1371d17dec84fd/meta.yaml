@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/88491ab203d640979f1371d17dec84fd/artifacts
+end_time: 1727601413890
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 88491ab203d640979f1371d17dec84fd
+run_name: sassy-shoat-882
+run_uuid: 88491ab203d640979f1371d17dec84fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727601379211
+status: 3
+tags: []
+user_id: root

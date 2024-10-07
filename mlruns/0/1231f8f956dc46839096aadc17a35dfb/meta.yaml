@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1231f8f956dc46839096aadc17a35dfb/artifacts
+end_time: 1727628400948
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1231f8f956dc46839096aadc17a35dfb
+run_name: bouncy-koi-681
+run_uuid: 1231f8f956dc46839096aadc17a35dfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727628383327
+status: 4
+tags: []
+user_id: root

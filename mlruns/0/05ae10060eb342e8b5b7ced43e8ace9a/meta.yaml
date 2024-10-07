@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/05ae10060eb342e8b5b7ced43e8ace9a/artifacts
+end_time: 1727601379113
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05ae10060eb342e8b5b7ced43e8ace9a
+run_name: sneaky-colt-969
+run_uuid: 05ae10060eb342e8b5b7ced43e8ace9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727601302823
+status: 3
+tags: []
+user_id: root

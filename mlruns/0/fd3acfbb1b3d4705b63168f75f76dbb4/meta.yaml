@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/fd3acfbb1b3d4705b63168f75f76dbb4/artifacts
+end_time: 1728327469163
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd3acfbb1b3d4705b63168f75f76dbb4
+run_name: ambitious-wren-827
+run_uuid: fd3acfbb1b3d4705b63168f75f76dbb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728327452232
+status: 4
+tags: []
+user_id: root

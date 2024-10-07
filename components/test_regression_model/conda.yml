@@ -8,5 +8,6 @@ dependencies:
   - mlflow=2.1.1
   - scikit-learn=0.24.1
   - pip:
+      - databricks_cli==0.8.7
       - wandb==0.13.9
       - git+https://github.com/udacity/Project-Build-an-ML-Pipeline-Starter.git#egg=wandb-utils&subdirectory=components

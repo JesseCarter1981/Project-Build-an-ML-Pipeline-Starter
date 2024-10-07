@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9aa3d2a9ee5743c3a2a032c6cb61d320/artifacts
+end_time: 1727210111837
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9aa3d2a9ee5743c3a2a032c6cb61d320
+run_name: suave-skunk-978
+run_uuid: 9aa3d2a9ee5743c3a2a032c6cb61d320
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727210039025
+status: 3
+tags: []
+user_id: root

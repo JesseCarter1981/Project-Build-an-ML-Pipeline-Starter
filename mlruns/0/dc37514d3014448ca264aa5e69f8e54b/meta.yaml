@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/dc37514d3014448ca264aa5e69f8e54b/artifacts
+end_time: 1727209943021
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc37514d3014448ca264aa5e69f8e54b
+run_name: big-foal-133
+run_uuid: dc37514d3014448ca264aa5e69f8e54b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727209941863
+status: 4
+tags: []
+user_id: root
