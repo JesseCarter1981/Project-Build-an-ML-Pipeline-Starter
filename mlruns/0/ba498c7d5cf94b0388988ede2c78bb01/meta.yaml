@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ba498c7d5cf94b0388988ede2c78bb01/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba498c7d5cf94b0388988ede2c78bb01
+run_name: honorable-horse-401
+run_uuid: ba498c7d5cf94b0388988ede2c78bb01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728907227157
+status: 1
+tags: []
+user_id: root

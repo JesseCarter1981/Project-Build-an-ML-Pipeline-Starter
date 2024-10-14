@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5c8f00d97a01466d986d3118fc6cb043/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c8f00d97a01466d986d3118fc6cb043
+run_name: fun-mole-629
+run_uuid: 5c8f00d97a01466d986d3118fc6cb043
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728907064804
+status: 1
+tags: []
+user_id: root
