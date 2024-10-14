@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/148e692641fb40b698b3c9197c9fa4d4/artifacts
+end_time: 1728926681634
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 148e692641fb40b698b3c9197c9fa4d4
+run_name: unique-kit-173
+run_uuid: 148e692641fb40b698b3c9197c9fa4d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728926656345
+status: 4
+tags: []
+user_id: root

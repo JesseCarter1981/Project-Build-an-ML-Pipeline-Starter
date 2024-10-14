@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d6f15235266947d3b9f54639375e7bbe/artifacts
+end_time: 1728927257539
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6f15235266947d3b9f54639375e7bbe
+run_name: legendary-hog-706
+run_uuid: d6f15235266947d3b9f54639375e7bbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728927232250
+status: 4
+tags: []
+user_id: root

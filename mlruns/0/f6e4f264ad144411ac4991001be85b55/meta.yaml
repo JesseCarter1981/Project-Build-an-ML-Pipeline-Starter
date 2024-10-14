@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f6e4f264ad144411ac4991001be85b55/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6e4f264ad144411ac4991001be85b55
+run_name: judicious-skink-871
+run_uuid: f6e4f264ad144411ac4991001be85b55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728926659646
+status: 1
+tags: []
+user_id: root

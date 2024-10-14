@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9d4f53035547444087d88d6ee81f2db3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d4f53035547444087d88d6ee81f2db3
+run_name: amazing-fly-616
+run_uuid: 9d4f53035547444087d88d6ee81f2db3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728927483492
+status: 1
+tags: []
+user_id: root

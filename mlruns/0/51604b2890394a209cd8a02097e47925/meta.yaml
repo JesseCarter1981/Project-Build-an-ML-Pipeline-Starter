@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/51604b2890394a209cd8a02097e47925/artifacts
+end_time: 1728927506619
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51604b2890394a209cd8a02097e47925
+run_name: suave-snake-15
+run_uuid: 51604b2890394a209cd8a02097e47925
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728927480069
+status: 4
+tags: []
+user_id: root
