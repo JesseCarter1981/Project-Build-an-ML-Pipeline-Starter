@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/756d7b40c5a1408b8d4250f5b0da0ada/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 756d7b40c5a1408b8d4250f5b0da0ada
+run_name: powerful-ray-563
+run_uuid: 756d7b40c5a1408b8d4250f5b0da0ada
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728926188498
+status: 1
+tags: []
+user_id: root
