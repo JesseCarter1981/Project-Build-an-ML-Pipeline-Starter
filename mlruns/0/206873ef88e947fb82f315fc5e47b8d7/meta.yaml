@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/206873ef88e947fb82f315fc5e47b8d7/artifacts
+end_time: 1729010571892
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 206873ef88e947fb82f315fc5e47b8d7
+run_name: tasteful-yak-416
+run_uuid: 206873ef88e947fb82f315fc5e47b8d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729010546292
+status: 4
+tags: []
+user_id: root
