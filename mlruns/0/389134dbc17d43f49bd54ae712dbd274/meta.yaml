@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/389134dbc17d43f49bd54ae712dbd274/artifacts
+end_time: 1729002569519
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 389134dbc17d43f49bd54ae712dbd274
+run_name: crawling-doe-147
+run_uuid: 389134dbc17d43f49bd54ae712dbd274
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729002514229
+status: 3
+tags: []
+user_id: root

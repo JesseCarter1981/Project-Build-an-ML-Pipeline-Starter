@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e4e8bb7827b249c08b2a2f87aaea6027/artifacts
+end_time: 1728927897530
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4e8bb7827b249c08b2a2f87aaea6027
+run_name: victorious-foal-894
+run_uuid: e4e8bb7827b249c08b2a2f87aaea6027
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728927838767
+status: 4
+tags: []
+user_id: root
