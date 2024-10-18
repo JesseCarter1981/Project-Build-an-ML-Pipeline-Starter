@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/609aea4ef1254fa7a7210f69b74853d8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 609aea4ef1254fa7a7210f69b74853d8
+run_name: classy-asp-889
+run_uuid: 609aea4ef1254fa7a7210f69b74853d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729272446659
+status: 1
+tags: []
+user_id: root

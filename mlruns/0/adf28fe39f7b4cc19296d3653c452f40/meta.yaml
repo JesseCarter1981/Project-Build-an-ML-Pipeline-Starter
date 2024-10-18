@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/adf28fe39f7b4cc19296d3653c452f40/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: adf28fe39f7b4cc19296d3653c452f40
+run_name: sneaky-shad-879
+run_uuid: adf28fe39f7b4cc19296d3653c452f40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729106581163
+status: 1
+tags: []
+user_id: root

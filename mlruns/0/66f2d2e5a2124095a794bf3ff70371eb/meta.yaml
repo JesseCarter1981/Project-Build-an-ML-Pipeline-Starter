@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/66f2d2e5a2124095a794bf3ff70371eb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 66f2d2e5a2124095a794bf3ff70371eb
+run_name: enthused-robin-993
+run_uuid: 66f2d2e5a2124095a794bf3ff70371eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729098959609
+status: 1
+tags: []
+user_id: root

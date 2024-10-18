@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e3762e814e0f4b0f9269104f95c26863/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3762e814e0f4b0f9269104f95c26863
+run_name: upset-wolf-455
+run_uuid: e3762e814e0f4b0f9269104f95c26863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729272351232
+status: 1
+tags: []
+user_id: root

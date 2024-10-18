@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c1fecaa8135a4d6bb3fdf2c9a9233978/artifacts
+end_time: 1729106600510
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c1fecaa8135a4d6bb3fdf2c9a9233978
+run_name: debonair-conch-133
+run_uuid: c1fecaa8135a4d6bb3fdf2c9a9233978
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729106576819
+status: 4
+tags: []
+user_id: root

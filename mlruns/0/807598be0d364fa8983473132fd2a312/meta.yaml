@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/807598be0d364fa8983473132fd2a312/artifacts
+end_time: 1729107532738
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 807598be0d364fa8983473132fd2a312
+run_name: gregarious-gull-399
+run_uuid: 807598be0d364fa8983473132fd2a312
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729107509305
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f6c03238769b4c8a9ac16f92c1b61cb0/artifacts
+end_time: 1729106460830
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6c03238769b4c8a9ac16f92c1b61cb0
+run_name: rumbling-jay-698
+run_uuid: f6c03238769b4c8a9ac16f92c1b61cb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729106435294
+status: 4
+tags: []
+user_id: root

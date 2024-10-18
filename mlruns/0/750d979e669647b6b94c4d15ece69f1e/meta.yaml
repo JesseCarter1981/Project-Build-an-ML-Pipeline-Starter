@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/750d979e669647b6b94c4d15ece69f1e/artifacts
+end_time: 1729106925041
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 750d979e669647b6b94c4d15ece69f1e
+run_name: funny-perch-878
+run_uuid: 750d979e669647b6b94c4d15ece69f1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729106900095
+status: 4
+tags: []
+user_id: root

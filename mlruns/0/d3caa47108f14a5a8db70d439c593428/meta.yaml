@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d3caa47108f14a5a8db70d439c593428/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3caa47108f14a5a8db70d439c593428
+run_name: upset-lamb-45
+run_uuid: d3caa47108f14a5a8db70d439c593428
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729107235259
+status: 1
+tags: []
+user_id: root

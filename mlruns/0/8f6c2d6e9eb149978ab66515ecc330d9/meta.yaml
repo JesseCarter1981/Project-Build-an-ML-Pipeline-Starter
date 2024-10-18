@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8f6c2d6e9eb149978ab66515ecc330d9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f6c2d6e9eb149978ab66515ecc330d9
+run_name: resilient-hog-51
+run_uuid: 8f6c2d6e9eb149978ab66515ecc330d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729106904509
+status: 1
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7c247dfe2339498abe1c8656edc35bae/artifacts
+end_time: 1729272372267
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c247dfe2339498abe1c8656edc35bae
+run_name: unique-stag-864
+run_uuid: 7c247dfe2339498abe1c8656edc35bae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729272346629
+status: 4
+tags: []
+user_id: root

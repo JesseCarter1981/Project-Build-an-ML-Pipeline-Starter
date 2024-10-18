@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ff208ffb67fb4b86964aa8429d3240b3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff208ffb67fb4b86964aa8429d3240b3
+run_name: fortunate-skink-337
+run_uuid: ff208ffb67fb4b86964aa8429d3240b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729272492604
+status: 1
+tags: []
+user_id: root
