@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6006c0bc005340b589bca88535bde169/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6006c0bc005340b589bca88535bde169
+run_name: skillful-auk-981
+run_uuid: 6006c0bc005340b589bca88535bde169
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729272895798
+status: 1
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ae1cf20496f44e1ab04f7f4ba01ecf39/artifacts
+end_time: 1729273210394
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae1cf20496f44e1ab04f7f4ba01ecf39
+run_name: nebulous-crow-142
+run_uuid: ae1cf20496f44e1ab04f7f4ba01ecf39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729273203889
+status: 4
+tags: []
+user_id: root

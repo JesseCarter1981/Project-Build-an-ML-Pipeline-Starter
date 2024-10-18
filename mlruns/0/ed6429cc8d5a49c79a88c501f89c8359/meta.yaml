@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ed6429cc8d5a49c79a88c501f89c8359/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed6429cc8d5a49c79a88c501f89c8359
+run_name: bright-stag-471
+run_uuid: ed6429cc8d5a49c79a88c501f89c8359
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729272776610
+status: 1
+tags: []
+user_id: root

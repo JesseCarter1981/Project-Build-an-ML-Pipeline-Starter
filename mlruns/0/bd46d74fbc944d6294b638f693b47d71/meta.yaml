@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/bd46d74fbc944d6294b638f693b47d71/artifacts
+end_time: 1729273314229
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd46d74fbc944d6294b638f693b47d71
+run_name: bustling-carp-651
+run_uuid: bd46d74fbc944d6294b638f693b47d71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729273307544
+status: 4
+tags: []
+user_id: root
