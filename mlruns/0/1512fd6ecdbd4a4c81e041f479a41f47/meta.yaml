@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1512fd6ecdbd4a4c81e041f479a41f47/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1512fd6ecdbd4a4c81e041f479a41f47
+run_name: charming-skink-959
+run_uuid: 1512fd6ecdbd4a4c81e041f479a41f47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729272686396
+status: 1
+tags: []
+user_id: root

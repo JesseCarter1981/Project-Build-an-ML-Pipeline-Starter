@@ -4,4 +4,4 @@ channels:
   - defaults
 dependencies:
   - mlflow=2.8.1
-  - python=3.9
+  - python=3.8D

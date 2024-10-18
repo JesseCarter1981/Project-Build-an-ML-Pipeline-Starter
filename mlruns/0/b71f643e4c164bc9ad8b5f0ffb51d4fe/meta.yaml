@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b71f643e4c164bc9ad8b5f0ffb51d4fe/artifacts
+end_time: 1729272688594
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b71f643e4c164bc9ad8b5f0ffb51d4fe
+run_name: fearless-mink-146
+run_uuid: b71f643e4c164bc9ad8b5f0ffb51d4fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729272683039
+status: 4
+tags: []
+user_id: root
