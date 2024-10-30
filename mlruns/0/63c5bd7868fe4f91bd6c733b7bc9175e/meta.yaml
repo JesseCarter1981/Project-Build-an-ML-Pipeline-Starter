@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/63c5bd7868fe4f91bd6c733b7bc9175e/artifacts
+end_time: 1730316989953
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63c5bd7868fe4f91bd6c733b7bc9175e
+run_name: brawny-hog-951
+run_uuid: 63c5bd7868fe4f91bd6c733b7bc9175e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730316980599
+status: 4
+tags: []
+user_id: root

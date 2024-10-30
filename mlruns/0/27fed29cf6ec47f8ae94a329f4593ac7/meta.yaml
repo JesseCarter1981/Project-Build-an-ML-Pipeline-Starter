@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/27fed29cf6ec47f8ae94a329f4593ac7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 27fed29cf6ec47f8ae94a329f4593ac7
+run_name: skittish-chimp-958
+run_uuid: 27fed29cf6ec47f8ae94a329f4593ac7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730316987281
+status: 1
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/00855ea9dc5d4080a564ead0c59c96bc/artifacts
+end_time: 1729274401921
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00855ea9dc5d4080a564ead0c59c96bc
+run_name: gifted-zebra-197
+run_uuid: 00855ea9dc5d4080a564ead0c59c96bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729274394668
+status: 4
+tags: []
+user_id: root
