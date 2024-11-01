@@ -5,4 +5,3 @@ channels:
 dependencies:
   - mlflow=2.8.1
   - python=3.9
-  - databricks_cli==0.18.0
