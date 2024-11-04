@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4f0760d9b78f4471af3720e212508c37/artifacts
+end_time: 1730754811178
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f0760d9b78f4471af3720e212508c37
+run_name: resilient-shad-943
+run_uuid: 4f0760d9b78f4471af3720e212508c37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730754773951
+status: 4
+tags: []
+user_id: root

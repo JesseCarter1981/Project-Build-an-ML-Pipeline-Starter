@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/543c5495412d4df2a22befc77636e8be/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 543c5495412d4df2a22befc77636e8be
+run_name: wistful-crow-912
+run_uuid: 543c5495412d4df2a22befc77636e8be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730754677791
+status: 1
+tags: []
+user_id: root

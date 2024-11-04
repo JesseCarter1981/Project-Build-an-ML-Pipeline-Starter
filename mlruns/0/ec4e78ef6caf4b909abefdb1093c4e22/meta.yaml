@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ec4e78ef6caf4b909abefdb1093c4e22/artifacts
+end_time: 1730755030900
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec4e78ef6caf4b909abefdb1093c4e22
+run_name: abundant-rat-548
+run_uuid: ec4e78ef6caf4b909abefdb1093c4e22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730755025174
+status: 4
+tags: []
+user_id: root

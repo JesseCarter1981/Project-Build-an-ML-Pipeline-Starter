@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/43255c84115d44bdabbba325196f9f90/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 43255c84115d44bdabbba325196f9f90
+run_name: abundant-gnu-784
+run_uuid: 43255c84115d44bdabbba325196f9f90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730754777527
+status: 1
+tags: []
+user_id: root

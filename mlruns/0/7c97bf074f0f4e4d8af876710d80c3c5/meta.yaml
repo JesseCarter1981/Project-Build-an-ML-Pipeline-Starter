@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7c97bf074f0f4e4d8af876710d80c3c5/artifacts
+end_time: 1730754726372
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c97bf074f0f4e4d8af876710d80c3c5
+run_name: stylish-tern-238
+run_uuid: 7c97bf074f0f4e4d8af876710d80c3c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730754642639
+status: 4
+tags: []
+user_id: root
