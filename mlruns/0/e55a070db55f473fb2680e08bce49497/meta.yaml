@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e55a070db55f473fb2680e08bce49497/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e55a070db55f473fb2680e08bce49497
+run_name: thoughtful-gull-633
+run_uuid: e55a070db55f473fb2680e08bce49497
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730481301298
+status: 1
+tags: []
+user_id: root

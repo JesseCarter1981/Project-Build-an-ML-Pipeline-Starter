@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5829698e2c2b47fca367572ad5f6a518/artifacts
+end_time: 1730481344699
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5829698e2c2b47fca367572ad5f6a518
+run_name: powerful-doe-52
+run_uuid: 5829698e2c2b47fca367572ad5f6a518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730481297498
+status: 4
+tags: []
+user_id: root
