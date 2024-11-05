@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/39b7ea385bae487aac117ae36713d3f7/artifacts
+end_time: 1730755539606
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39b7ea385bae487aac117ae36713d3f7
+run_name: placid-sow-981
+run_uuid: 39b7ea385bae487aac117ae36713d3f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730755500068
+status: 4
+tags: []
+user_id: root

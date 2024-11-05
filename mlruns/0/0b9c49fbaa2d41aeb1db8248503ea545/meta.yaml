@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0b9c49fbaa2d41aeb1db8248503ea545/artifacts
+end_time: 1730755760489
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b9c49fbaa2d41aeb1db8248503ea545
+run_name: adorable-doe-374
+run_uuid: 0b9c49fbaa2d41aeb1db8248503ea545
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730755752942
+status: 4
+tags: []
+user_id: root

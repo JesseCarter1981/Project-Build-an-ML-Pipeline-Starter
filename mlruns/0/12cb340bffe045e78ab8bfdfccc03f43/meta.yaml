@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/12cb340bffe045e78ab8bfdfccc03f43/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 12cb340bffe045e78ab8bfdfccc03f43
+run_name: amusing-cod-713
+run_uuid: 12cb340bffe045e78ab8bfdfccc03f43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730755651336
+status: 1
+tags: []
+user_id: root

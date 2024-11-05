@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8abce9f24691459fb2f9320d45e1a14b/artifacts
+end_time: 1730755400705
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8abce9f24691459fb2f9320d45e1a14b
+run_name: learned-hen-754
+run_uuid: 8abce9f24691459fb2f9320d45e1a14b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730755394331
+status: 4
+tags: []
+user_id: root

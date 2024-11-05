@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/fb0c49a6410047538f68e833eb92022f/artifacts
+end_time: 1730755686838
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb0c49a6410047538f68e833eb92022f
+run_name: incongruous-dog-48
+run_uuid: fb0c49a6410047538f68e833eb92022f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730755647942
+status: 4
+tags: []
+user_id: root

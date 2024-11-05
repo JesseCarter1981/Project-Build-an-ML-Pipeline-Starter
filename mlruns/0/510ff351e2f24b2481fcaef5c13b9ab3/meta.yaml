@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/510ff351e2f24b2481fcaef5c13b9ab3/artifacts
+end_time: 1730755400488
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 510ff351e2f24b2481fcaef5c13b9ab3
+run_name: unleashed-mole-224
+run_uuid: 510ff351e2f24b2481fcaef5c13b9ab3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730755398896
+status: 4
+tags: []
+user_id: root
